@@ -1,6 +1,6 @@
 DOCKERFILE=Dockerfile
-DOCKER_TAG=base-python-template
-DOCKER_IMAGE=base-python-template:latest
+DOCKER_TAG=cryptography
+DOCKER_IMAGE=cryptography:latest
 
 PWD=$(shell pwd)
 UID=$(shell id -u)
